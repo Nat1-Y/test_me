@@ -7,3 +7,4 @@ Test documnet to readme file
 Test documnet released files
 run migration files and then seed
 python test
+test
