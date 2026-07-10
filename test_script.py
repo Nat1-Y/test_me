@@ -2,3 +2,4 @@
 --scripts
 --python version
 --test
+script
