@@ -9,3 +9,4 @@
 --where query
 --function
 --fun
+--querry
