@@ -1,6 +1,6 @@
 # test_me
 comment
-just to check
+just to check python
 add comment to check it
 test text to add
 Test documnet to readme file
