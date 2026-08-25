@@ -2,5 +2,5 @@
 --scripts
 --python version
 --test
-script
+script1
 test
