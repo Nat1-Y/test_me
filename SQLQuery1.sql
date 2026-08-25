@@ -1,5 +1,5 @@
 --select query--
---test--
+--test--check
 --my change--
 --write query her--
 --only for the test--
