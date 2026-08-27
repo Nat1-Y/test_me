@@ -1,6 +1,6 @@
 --test_script python file
 --scripts
 --python version
---test
+--test check
 script1
 test
