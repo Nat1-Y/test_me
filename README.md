@@ -1,5 +1,5 @@
 # test_me
-comment checkcomment
+comment checkcomment text
 just to check python add
 add comment to check it
 test text to add
